@@ -8,11 +8,11 @@ assets/css/themes/bootstrap.min.css - MIT - v3.4.1 - https://github.com/twbs/boo
 assets/css/themes/*.min.css - MIT - v3.4.1 - https://github.com/thomaspark/bootswatch
 assets/js/bootstrap.min.js - MIT - v3.4.1 - https://github.com/twbs/bootstrap
 assets/js/fingerprint2.min.js - MIT - v1.8.6 - https://github.com/fingerprintjs/fingerprintjs
-assets/js/forge.min.js - BSD-2-clause or GPL-2 - ? - https://github.com/digitalbazaar/forge
+assets/js/forge.min.js - BSD-2-clause or GPL-2.0 - ? - https://github.com/digitalbazaar/forge
 assets/js/jdenticon.min.js - MIT - v2.2.0 - https://github.com/dmester/jdenticon
 assets/js/jquery-*.min.js - MIT - v3.4.1 - https://jquery.com
 assets/js/ua-parser.min.js - MIT - v0.7.20  - https://github.com/faisalman/ua-parser-js
-captcha.php - LGPLv3
-[EVERYTHING ELSE] - GPLv3
+captcha.php - LGPL-3.0-or-later
+[EVERYTHING ELSE] - GPL-3.0-or-later
 
 Please see the included LICENSE.* files for the corresponding full license texts.
