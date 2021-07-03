@@ -52,4 +52,4 @@ See the `LICENSE` file or `About` page
 
 Donate
 -------
-BTC: bc1qz9xfupuwdltnc200tmmpflp8303tp2r47lgpxh
+- https://divested.dev/donate
