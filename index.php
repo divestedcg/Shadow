@@ -770,7 +770,7 @@ function cBottom() {
 					</div>
 				</div>
 
-				<script src=\"assets/js/jquery-3.4.1.min.js\" type=\"text/javascript\"></script>
+				<script src=\"assets/js/jquery-3.6.4.min.js\" type=\"text/javascript\"></script>
 				<script src=\"assets/js/bootstrap.min.js\" type=\"text/javascript\"></script>
 				<script defer src=\"assets/js/forge.min.js\" type=\"text/javascript\"></script>
 			</body>
